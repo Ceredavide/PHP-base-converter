@@ -18,7 +18,6 @@ CPT Locarno – Anno 2019/2020
 
 [4.Conclusioni finali : 6](#_Toc42433447)
 
-1.
 ## Descrizione Progetto :
 
 Sviluppare un&#39;applicazione web per la conversioni di valori da base n a base m, dove n e m sono compresi tra 2 e 16.
@@ -32,7 +31,6 @@ Il sistema deve essere in grado di eseguire un qualsiasi tipo di conversione nei
 
 Creare un&#39;interfaccia funzionale e gradevole all&#39;uso.
 
-1.
 ## Tecnologie utilizzate :
 
 Per la realizzazione di questo progetto mi sono basato su due tecnologie:
@@ -41,7 +39,6 @@ PHP: ([https://www.php.net/](https://www.php.net/)), è un linguaggio di Scripti
 
 Bootstrap: ([https://getbootstrap.com/](https://getbootstrap.com/)), è una raccolta di strumenti open source per la creazione di siti e applicazioni Web.
 
-1.
 ## Descrizione funzioni :
 
 Durante lo sviluppo del progetto ho suddiviso le funzioni necessarie in due file distinti: uno è il file actions.php, il quale contiente tutte le funzioni che eseguono delle procedure di verifica o calcoli. Nell&#39;altro file invece, chiamato render.php ho inserito delle funzione che tramite il comando echo e la concatenazione delle stringhe mi permetteva di passare del codice html dinamico.
@@ -62,7 +59,3 @@ La funzione _ **checkIfHasErrors** _ serve a controllare la validità dei valori
 
 La funzione _ **renderForm** _ si incarica di mostrare il form nel quale inserire i valori necessari per la conversione; il suo funzionamento è molto semplice: se il metodo di richiesta è POST significa che sono già stati inseriti dei valori, quindi per praticità li mostra all&#39;utente nei rispettivi form tramite la funzione _ **renderCompliledForm** _. Nel caso la chiamata fosse GET, non vi è nessun valore da mostrare e quindi i forms mostrano un placeholder invocando la funzione _ **renderEmptyForm** _.
 
-1.
-## Conclusioni finali :
-
-Penso di aver rispettato i punti necessari per la realizzazione del progetto, ho deciso inoltre di implementare Bootstrap poiché mi permetteva di rendere la web app responsiva e più bella da vedere.
