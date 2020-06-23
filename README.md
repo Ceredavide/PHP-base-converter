@@ -6,13 +6,13 @@ CPT Locarno – Anno 2019/2020
 
 # Indice :
 
-[1.Descrizione Progetto : 3](#_Toc42433444)
+1.Descrizione Progetto :
 
-[2.Tecnologie utilizzate : 3](#_Toc42433445)
+2.Tecnologie utilizzate :
 
-[3.Descrizione funzioni : 3](#_Toc42433446)
+3.Descrizione funzioni :
 
-[4.Conclusioni finali : 6](#_Toc42433447)
+4.Conclusioni finali :
 
 ## Descrizione Progetto :
 
